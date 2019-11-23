@@ -18,7 +18,7 @@ class Demo extends React.Component {
 	  console.log(pos);
   }
   render() {
-      return (<Walk onChange={this.onChange}>您好！</Walk>)
+      return (<Walk onChange={this.onChange}><div>您好！</div></Walk>)
    }
 }
 ```
