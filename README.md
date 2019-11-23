@@ -27,9 +27,9 @@ class Demo extends React.Component {
 
 对于游走组件可以设置一些自定义属性，具体如下：
 
-|属性|说明|类型|返回值|
-|-|-|-|-|-|-|
-| onChange | 位置回调 | function | pos：{X，Y}|
+| 属性 | 说明 | 类型 | 返回值 |
+| ----- | ---- | ----- | ------- |
+| onChange | 位置回调 | function | {X，Y} |
 
 ## License
 
