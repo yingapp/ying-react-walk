@@ -29,6 +29,7 @@ class Demo extends React.Component {
 
 | 属性 | 说明 | 类型 |  返回值
 | --- | --- | --- | -- | ---
+
 | onChange | 位置回调 | function | pos：{X，Y}
 
 ## License
