@@ -5,6 +5,8 @@
 
 ```bash
 npm install ying-react-walk --save
+或
+yarn add ying-react-walk
 ```
 
 ## Usage
